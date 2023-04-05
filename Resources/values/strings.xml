@@ -1,0 +1,117 @@
+<resources>
+  <string name="app_name">Sistema de Coleta</string>
+  <string name="powered_by"></string>
+
+  <string name="no_internet_connection">Sem conexão com a internet</string>
+  <string name="connect_to_a_network">Conecte-se a uma rede para usar o aplicativo.</string>
+
+  <string name="without_permission">Você precisa dar permissão de localização para utilizar o app.</string>
+  <string name="gps_disabled">Você precisa ativar o gps para utilizar o app.</string>
+
+  <string name="reload">Recarregar</string>
+  <string name="setting">Ir para configuração</string>
+
+  <string name="add_collection_point">Adicionar Ponto de Coleta</string>
+  <string name="add_another_collection_point">Deseja realmente adicionar mais um ponto de coleta?</string>
+
+  <string name="start_route">Iniciar Percurso</string>
+  <string name="retrieve_the_previous_route">Você deseja recuperar o percurso anterior?</string>
+
+  <string name="starting_route">Iniciando Percurso</string>
+  <string name="closing_Course">Encerrando Percurso</string>
+  <string name="select_file">Selecionar arquivo</string>
+
+  <string name="loading">Carregando, Por favor aguarde...</string>
+  <string name="collect_point">Ponto de Coleta</string>
+  <string name="location">Localização</string>
+  <string name="photos">Fotos</string>
+
+  <string name="form_field_title">Informação </string>
+  <string name="form_field">Identificação</string>
+  <string name="form_date">Data</string>
+  <string name="form_variety">Descritivo</string>
+  <string name="form_stand">Urgência</string>
+  <string name="form_phenological_stadium">Responsavel</string>
+  <string name="form_observations">Observações</string>
+
+  <string name="form_root_system">Placa</string>
+  <string name="form_aerial_part">Tachão</string>
+  <string name="form_plantability">Caixa de Válvula PEAD</string>
+  <string name="form_compaction">Caixa de Válvula AÇO</string>
+  <string name="form_nematodes">Marco</string>
+  <string name="form_others">Estações Enterradas</string>
+
+  <string name="form_field_required">Campo Obrigatório</string>
+  <string name="user">Usuário</string>
+  <string name="form_password">Senha</string>
+  <string name="form_login">Entrar</string>
+
+  <string name="unable_to_login">Não foi possível fazer seu login</string>
+  <string name="username_or_password_is_invalid">Usuário ou senha inválidos.</string>
+
+  <string name="invalid_user">Digite um usuário válido.</string>
+  <string name="invalid_password">Use 8 caracteres ou mais para sua senha.</string>
+  <string name="invalid_point">Digite um ponto de coleta válido.</string>
+  <string name="invalid_date">Digite uma data de coleta válida.</string>
+
+  <string name="open_course">Percurso Aberto</string>
+  <string name="end_current_route">Encerre o percurso atual antes de sair do mapa.</string>
+
+  <string name="discarding">Descartando</string>
+  <string name="saved_course">Percurso Salvo</string>
+  <string name="course">Percurso</string>
+
+  <string name="import_export">Importar / Exportar</string>
+  <string name="form_import">Importar</string>
+  <string name="form_export">Exportar Localmente</string>
+  <string name="form_export_server"></string>
+  <string name="form_export_email"></string>
+
+  <string name="invalid_format">Formato Inválido</string>
+  <string name="valid_format">Formato valido: geojson</string>
+
+
+  <string name="exported_data">Dados Exportados</string>
+  <string name="collection_data">Dados de Coleta</string>
+  <string name="collection_points">Pontos de Coleta</string>
+  <string name="routes">Percursos</string>
+  <string name="users">Usuários</string>
+
+  <string name="geojson">GeoJson</string>
+
+  <string name="save">Salvar</string>
+  <string name="change">Trocar</string>
+  <string name="delete">Excluir</string>
+  <string name="clean">Limpar</string>
+  <string name="areas">Áreas</string>
+
+  <string name="clear_users">Limpar Usuários</string>
+  <string name="clear_areas">Limpar Áreas</string>
+  <string name="clear_points">Limpar Pontos de Coleta</string>
+  <string name="clear_collected_data">Limpar Dados Coletados</string>
+  <string name="clear_saved_tracks">Limpar Percursos Salvos</string>
+
+  <string name="you_really_want_to_clean_users">Você realmente quer limpar os usuários cadastrados?</string>
+  <string name="you_really_want_to_clean_areas">Você realmente quer limpar as áreas do mapa?</string>
+  <string name="you_really_want_to_clean_points">Você realmente quer limpar os pontos de coleta do mapa?</string>
+  <string name="you_really_want_to_clear_saved_routes">Você realmente quer limpar os percursos salvos?</string>
+  <string name="you_really_want_to_clean_collected_data">Você realmente quer limpar os dados coletados?</string>
+
+  <string name="cancel">Cancelar</string>
+  <string name="confirm">Confirmar</string>
+
+  <string name="yes">Sim</string>
+  <string name="no">Não</string>
+
+  <string name="required_field">Campo obrigatório *</string>
+  <string name="required_fields_title">Campos obrigatórios</string>
+  <string name="required_fields_review">Alguns campos não foram preenchidos!</string>
+
+  <string name="image"></string>
+  <string name="page_not_found">Página Não Encontrada</string>
+  <string name="auxiliary_map">Mapa Auxiliar</string>
+  <string name="mandatory_properties">Propriedades Obrigatórias</string>
+  <string name="success">Sucesso!</string>
+  <string name="imported_points">pontos importados.</string>
+  <string name="repeated_points">pontos repetidos.</string>
+</resources>
